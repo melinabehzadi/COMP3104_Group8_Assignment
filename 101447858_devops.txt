@@ -1,0 +1,11 @@
+DevOps Contributions:
+
+1. Set up CI/CD using GitHub Actions to automate builds and testing.
+
+2. Integrated Jest for automated unit testing, ensuring that all code
+changes pass tests before merging.
+
+3. Created deployment pipelines for the staging environment.
+
+4. Used ESLint and Prettier to ensure consistent code formatting across
+the project.
