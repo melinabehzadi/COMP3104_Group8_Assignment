@@ -1,0 +1,7 @@
+SDLC Contributions:
+
+1. Participated in defining and gathering project requirements.
+
+2. Developed authentication and CI integration features.
+
+3. Implemented unit tests and performed manual debugging.
