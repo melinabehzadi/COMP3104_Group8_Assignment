@@ -1,0 +1,5 @@
+1. Set up and managed different environments for development and
+production.
+2. Implemented ESLint for code quality checks in the CI pipeline.
+3. Automated the deployment process using GitHub Actions to
+ensure fast and reliable builds.

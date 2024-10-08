@@ -1,0 +1,7 @@
+1. Write descriptive and concise commit messages.
+2. Use feature branches to work on individual tasks and ensure a
+stable `main` branch.
+3. Review code through pull requests and resolve conflicts before
+merging.
+4. Maintain a clean and linear commit history using rebase before
+merging.

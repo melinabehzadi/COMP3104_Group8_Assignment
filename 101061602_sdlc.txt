@@ -1,0 +1,5 @@
+1. Conducted regular code reviews and gave feedback to team
+members.
+2. Focused on writing integration tests for the overall system.
+3. Participated in sprint planning and helped create tasks for
+each sprint.
