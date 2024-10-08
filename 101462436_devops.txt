@@ -1,0 +1,6 @@
+1. Configured GitHub Actions to run build and test workflows on
+every pull request.
+2. Set up environment monitoring for both staging and production
+servers.
+3. Integrated code linting tools to enforce consistent code
+quality across the project.
