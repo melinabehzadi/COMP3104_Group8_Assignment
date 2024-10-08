@@ -1,3 +1,18 @@
+  GNU nano 8.1                         .gitignore
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore environment variable files
+.env
+
+
+
 # Ignore macOS system files
 .DS_Store
 
