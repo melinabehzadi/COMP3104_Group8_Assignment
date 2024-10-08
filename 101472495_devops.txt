@@ -2,4 +2,5 @@ The COMP 3104 DevOps course introduces core principles and practices of DevOps, 
 version control, CI tools for automated testing, and essential workflows that enable efficient and reliable software development.
 This course also introduces containerization and cloud deployment, ensuring that students understand how to make applications scalable and maintainable. Tools like Docker and cloud platforms like AWS or Azure 
 are highlighted.
+By learning DevOps, students acquire a mindset of continuous improvement, focusing on faster delivery cycles, enhanced communication between development and operations teams, and automated testing.
 
