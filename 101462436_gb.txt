@@ -1,0 +1,8 @@
+1. Keep the `main` branch clean by merging only tested and
+reviewed code.
+2. Use feature branches to develop new features and resolve
+conflicts before merging.
+3. Regularly push changes to ensure up-to-date code and avoid
+long-running feature branches.
+4. Write clear and concise commit messages to track changes
+easily.
