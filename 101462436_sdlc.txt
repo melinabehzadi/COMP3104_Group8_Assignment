@@ -1,0 +1,5 @@
+1. Managed backend API development using Node.js and Express.
+2. Led sprint planning and task assignments during Agile
+development cycles.
+3. Conducted regular sprint reviews to assess progress and plan
+for upcoming sprints.
