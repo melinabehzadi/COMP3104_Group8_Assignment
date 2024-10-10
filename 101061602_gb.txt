@@ -1,7 +1,1 @@
-1. Write descriptive and concise commit messages.
-2. Use feature branches to work on individual tasks and ensure a
-stable `main` branch.
-3. Review code through pull requests and resolve conflicts before
-merging.
-4. Maintain a clean and linear commit history using rebase before
-merging.The college has three campuses: Casa Loma, St. James, and Waterfront.
+George Brown College is a public, fully accredited college of applied arts and technology located in Toronto, Ontario, Canada. It offers a variety of programs in different disciplines including technology, business, and health sciences.
