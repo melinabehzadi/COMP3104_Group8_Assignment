@@ -1,5 +1,1 @@
-1. Set up and managed different environments for development and
-production.
-2. Implemented ESLint for code quality checks in the CI pipeline.
-3. Automated the deployment process using GitHub Actions to
-ensure fast and reliable builds.
+COMP 3104 DevOps course provides students with knowledge and skills in continuous integration, continuous delivery, and automated deployment. The course covers essential DevOps tools and practices to manage software development efficiently.
