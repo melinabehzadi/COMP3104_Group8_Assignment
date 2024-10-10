@@ -3,3 +3,13 @@ George Brown College is a public, fully accredited college of applied arts and t
 History:
 Established in 1967, George Brown College was named after George Brown, a 19th-century politician and newspaper publisher who was one of the Fathers of Confederation in Canada.
 The college has grown to offer programs in various disciplines such as technology, business, health sciences, community services, and the arts.
+
+Programs Offered:
+
+Technology Programs: Computer programming, software development, cybersecurity, construction engineering technology.
+
+Health Sciences: Nursing, dental hygiene, early childhood education, fitness and health promotion.
+
+Business Programs: Marketing, human resources, business administration, project management.
+
+Arts & Design: Graphic design, fashion management, video game design.
