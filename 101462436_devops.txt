@@ -1,1 +1,2 @@
 1. Set up CI/CD using GitHub Actions to automate builds and testing.
+2. Integrated Jest for automated unit testing.
