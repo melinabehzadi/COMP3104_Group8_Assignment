@@ -1,0 +1,1 @@
+1. Set up CI/CD using GitHub Actions to automate builds and testing.
