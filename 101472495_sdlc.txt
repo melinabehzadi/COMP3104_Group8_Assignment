@@ -1,0 +1,6 @@
+DevOps plays a critical role in the Software Development Life Cycle (SDLC) by bridging the gap between development and operations. It enhances collaboration, automates workflows, and enables continuous 
+delivery, which improves software quality and reduces time-to-market. Integrating DevOps into the SDLC promotes a culture of accountability, faster response to customer needs, and continuous improvement.
+DevOps promotes a culture of collaboration throughout the SDLC stages, from planning and coding to testing and deployment. This collaboration minimizes hand-off delays and encourages shared responsibility for 
+software stability.
+With DevOps, automation at every stage of the SDLC becomes achievable, increasing reliability and freeing up time for developers to focus on innovation instead of manual tasks.
+
