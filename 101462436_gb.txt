@@ -1,1 +1,2 @@
 1. Commit often and keep the commit messages meaningful and concise.
+2. Always work on feature branches to prevent conflicts and ensure that main remains stable.
