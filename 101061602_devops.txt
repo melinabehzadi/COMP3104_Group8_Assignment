@@ -1,2 +1,0 @@
-COMP 3104 DevOps course provides students with knowledge and skills in continuous integration, continuous delivery, and automated deployment. The course covers essential DevOps tools and practices to manage software development efficiently.
-The course covers tools like GitHub Actions for CI/CD and Docker for containerization.
