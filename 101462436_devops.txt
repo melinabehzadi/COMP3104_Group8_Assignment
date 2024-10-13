@@ -1,4 +1,16 @@
-1. Set up CI/CD using GitHub Actions to automate builds and testing.
-2. Integrated Jest for automated unit testing.
-3. Created deployment pipelines for the staging environment.
-4. Used ESLint and Prettier to ensure consistent code formatting.
+The DevOps course, known as COMP3104 is offered in the fifth semester of the T177 Program.
+
+It introduces key concepts and practices of DevOps, and how it enhances the productivity in software development.
+
+The course contains multiple hands-on labs, as well as weekly quizzes to test the knowledge of students.
+
+Students explore version control systems and how to manage low-risk software releases effectively. 
+
+The course also covers cloud computing, emphasizing Infrastructure as Code and its benefits.
+
+By the end of the course, students will have practical skills and knowledge to contribute to DevOps practices in any organization.
+
+
+
+
+
