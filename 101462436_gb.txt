@@ -1,4 +1,9 @@
-1. Commit often and keep the commit messages meaningful and concise.
-2. Always work on feature branches to prevent conflicts and ensure that main remains stable.
-3. Review pull requests thoroughly before merging to the main branch to ensure code quality.
-4. Use rebase to clean up commit history before merging feature branches.
+George Brown College was established in 1967 in Toronto, Ontario.
+
+The college offers over 160 full-time programs throughout it's diverse schools:
+
+1. School of Business
+2. School of Arts, Design and Information Technology
+3. School of Health Sciences
+4. School of Hospitality and Culinary Arts
+5. School of Construction and Building Sciences
